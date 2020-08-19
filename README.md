@@ -42,3 +42,11 @@
 - [MySQL数据库经典面试题解析](mysql/mysql-interview.md)
 - [MySQL InnoDB MVCC 机制的原理及实现](mysql/mysql-mvcc.md)
 - [为什么MySQL使用B+树做索引？](mysql/mysql-index-b-plus.md)
+
+## 面试必备算法
+
+- [字符串之实现 Sunday 匹配](algorithm/docs/match-sunday-string.md)
+- [字符串泄漏之反转字符串(301)](algorithm/docs/reverse-string.md)
+- [字符串中的第一个唯一字符](algorithm/docs/search-first-unique-char.md)
+- [字符串之验证回文串](algorithm/docs/verify-palindrome.md)
+- [滑动窗口最大值](algorithm/docs/sliding-window-maximum.md)
