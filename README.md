@@ -22,6 +22,7 @@
 - [对已经关闭的的chan进行读写，会怎么样？为什么？](question/q018.md)
 - [简单聊聊内存逃逸？](question/q019.md)
 - [字符串转成byte数组，会发生内存拷贝吗？](question/q020.md)
+- [http包的内存泄漏](question/q021.md)
 
 ## Golang 理论
 
@@ -50,3 +51,11 @@
 - [字符串中的第一个唯一字符](algorithm/docs/search-first-unique-char.md)
 - [字符串之验证回文串](algorithm/docs/verify-palindrome.md)
 - [滑动窗口最大值](algorithm/docs/sliding-window-maximum.md)
+- [最长公共前缀](algorithm/docs/longest-common-prefix.md)
+- [两个数组的交集](algorithm/docs/array-intersection.md)
+- [最接近的三数之和](algorithm/docs/3sum-closest.md)
+
+### 排序算法
+
+- [冒泡排序](algorithm/docs/bubble-sort.md)
+- [选择排序](algorithm/docs/selection-sort.md)
